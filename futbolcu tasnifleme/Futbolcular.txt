@@ -1,0 +1,37 @@
+Fernando Muslera,GS
+Şener Özbayraklı,GS
+Ahmet Çalık,GS
+Jean Michaël Seri,GS
+Adem Büyük,GS
+Selçuk İnan,GS
+Radamel Falcao,GS
+Younès Belhanda,GS
+Martin Linnes,GS
+Ryan Donk,GS
+Yunus Akgün,GS
+Ömer Bayram,GS
+Emre Akbaba,GS
+Jimmy Durmaz,GS
+Mariano,GS
+Altay Bayındır,FB
+Bartu Kulbilge,FB
+Harun Tekin,FB
+Osman Ertuğrul Çetin,FB
+Oytun Özdoğan,FB
+Marcel Tisserand,FB
+Attila Árpád Szalai,FB
+Sadık Çiftpınar,FB
+Mathias Jørgensen,FB
+Mikael Askarov,FB
+Uğur Kaan Yıldız,FB
+Utku Yuvakuran,BJK
+Ersin Destanoğlu,BJK
+Emre Bilgin,BJK
+Rıdvan Yılmaz,BJK
+Valentin André Henri Rosier,BJK
+Welinton Souza Silva,BJK
+Fabrice N'Sakala,BJK
+Erdoğan Kaya,BJK
+Serdar Saatçı,BJK
+Bilal Ceylan,BJK
+Alpay Çelebi,BJK
